@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera IBM applied Data Science 
+This repo is created as part of the Coursera IBM applied Data Science course
