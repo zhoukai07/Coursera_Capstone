@@ -2,7 +2,7 @@
 
 ## A description of the problem and a discussion of the background. (15 marks)
 
-### background introduction 
+### Background introduction 
 
 The fitness industry in Singapore is booming with increasing awareness of **healthy-living lifestyle**. The overall market revenue is expected to show an annual growth rate (CAGR 2019-2023) of 8.3%, resulting in a market volume of US$29m by 2023.
 In addition, with fitness booking platforms like GuavaPass, ClassPass and KFit available in Singapore, it has become more convenient to discover boutique gyms and studios, especially in the [central regions](https://www.wikiwand.com/en/Planning_Areas_of_Singapore) for executives and office workers. 
