@@ -28,7 +28,7 @@ However, before they go on to commit a huge sum of capital to start a business o
   *source: Foursquare API
  
 
-### Methods to extract data
+### Extracting data
 
 We will make use of the beautifulsoup package to scrape from [wikipedia](https://www.wikiwand.com/en/Planning_Areas_of_Singapore). This allows us to obtain the list of sub-areas in the central region of Singapore. The central region is selected as this is where most of the office workers are. Next, we will use the Python geocoder package to obtain the list of corresponding latlong for the above locations.
 After that, we will utilize the search venues API from Foursquare API to get a list of 50 gyms within each sub-areas. The API query is using 'gym' as keyword. After obtaining the list of gyms in the region, we will their latlongs and get the counts of gyms within each sub-area. Finally, we use k-mean clustering to obtain 4 clusters and do visualization using Folium.  
